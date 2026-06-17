@@ -57,3 +57,4 @@ Hệ thống AI xử lý ngôn ngữ tự nhiên và suy luận được viết 
    - Nếu chạy app trên **Máy ảo (Emulator)**: Sử dụng IP `http://10.0.2.2:8000` thay cho localhost để gọi tới backend.
    - Nếu chạy app trên **Máy thật**: Phải đảm bảo điện thoại và máy tính kết nối chung mạng Wi-Fi. Bạn cần đổi URL gọi API thành địa chỉ IPv4 LAN của máy tính đang chạy Python (ví dụ: `http://192.168.1.x:8000`).
 4. Nhấn **Run (Shift + F10)** để cài đặt app lên thiết bị và trải nghiệm.
+
